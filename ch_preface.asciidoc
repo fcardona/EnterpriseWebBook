@@ -80,7 +80,7 @@ This Web application will allow people to register, donate, find local kids that
 By looking at the image above the reader may be thinking, "This doesn't look like an enterprise application". Let's see. Do you believe that an enterprise application has to consist of boring grey windows with lots of grids, forms, and some charts?
 True, but we got all of these elements in our application too: 
 
-* clicking on the Donate button will reveal a form that has to be filled out and sent to a payment processing system.
+* Clicking on the Donate button will reveal a form that has to be filled out and sent to a payment processing system.
 
 * The interactive live pie chart is something that many modern enterprise dashboards include.
 
