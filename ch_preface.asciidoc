@@ -90,7 +90,7 @@ True, but we got all of these elements in our application too:
 
 * Under the hood this pretty window will use a high speed full duplex communication protocol WebSocket. 
 
-As a matter of fact, the company that employs authors of this book has a customer that is a non-for-profit organization that is in the business of helping people fighting a certain disease. That application has two parts - consumer-facing and back-office. The former looks more colorful, while the latter has more grey grids indeed. Both parts process the same data and this organization can't operate if you remove any of these parts.
+As a matter of fact, the company that employs authors of this book has a customer that is a not-for-profit organization that is in the business of helping people fighting a certain disease. That application has two parts - consumer-facing and back-office. The former looks more colorful, while the latter has more grey grids indeed. Both parts process the same data and this organization can't operate if you remove any of these parts.
 
 Would these feature make Save The Child an enterprise Web application? Yes, as it can help our imaginary non-for-profit organization to run its business: collecting donations for sick kids. Would you rather see a fully function Wall Street trading system? Maybe. But this book and our sample application incorporates all software components that you'd need to use for developing a financial application.
 
