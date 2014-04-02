@@ -67,7 +67,7 @@ Finally, this book is important because of the way it's written - you'll be work
 === Introducing Save The Child Application 
 
 
-To make this book more practical, we decided to not just give you the unrelated code snippets illustration various syntax or techniques, but but bring all of them together in a working application (just the UI portion).  While learning various frameworks, libraries and approaches to building UI for Web application you'll be writing multiple versions of the same Web application - Save The Child. It's a sample charity application that may be used to collect donations for children who need medical attention.  
+To make this book more practical, we decided to not just give you the unrelated code snippets illustration various syntax or techniques, but bring all of them together in a working application (just the UI portion).  While learning various frameworks, libraries and approaches to building UI for Web application you'll be writing multiple versions of the same Web application - Save The Child. It's a sample charity application that may be used to collect donations for children who need medical attention.  
 
 [[FIG0-1]]
 .Save The Child - a sample application
