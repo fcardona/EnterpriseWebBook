@@ -144,7 +144,7 @@ Chapters 1 and 2 are must read - if you can't read JavaScript code or are not fa
 
 *Chapter 3* shows how to use a popular jQuery library to lower the amount of manual coding in the Save The Child application. First, we'll introduce the jQuery Core library, and then re-build our Save The Child application with it. In the real world, developers often increase their productivity by using JavaScript libraries and frameworks. 
 
-*Chapter 4* is a mini tutorial of a comprehensive JavaScript framework called Ext JS. This is one of the most feature-complete frameworks available on the market. Sencha, the company behind Ext JS, managed to extend JavaScript to make its syntax closer to classical object-oriented languages. They also developed an extensive library of UI components. Expect to see another re-write of the Save The child here.  
+*Chapter 4* is a mini tutorial of a comprehensive JavaScript framework called Ext JS. This is one of the most feature-complete frameworks available on the market. Sencha, the company behind Ext JS, managed to extend JavaScript to make its syntax closer to classical object-oriented languages. They also developed an extensive library of UI components. Expect to see another re-write of the Save The Child here.  
 
 *Chapter 5* is a review of productivity tools used by enterprise developers (NPM, Grunt, Bower,Yeoman, CDB). It’s about build tools, code generators, and managing dependencies (a typical enterprise application uses carious software that need to work in harmony).
 
