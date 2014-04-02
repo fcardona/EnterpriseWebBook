@@ -86,7 +86,7 @@ True, but we got all of these elements in our application too:
 
 * Clicking on the Table tab (right next to the Chart tab) shows the same donations stats in a grid (that one is greyish).
 
-* Integration with the mapping API allows visually present the locations that run events important for this business or a non-profit organization. 
+* Integration with the mapping API allows to visually present the locations that run events important for this business or a non-profit organization. 
 
 * Under the hood this pretty window will use a high speed full duplex communication protocol WebSocket. 
 
