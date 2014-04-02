@@ -96,7 +96,7 @@ Would these feature make Save The Child an enterprise Web application? Yes, as i
 
 ==== How Are We Going to Build This App
 
-Instead of giving a number of unrelated code samples, we decided to develop multiple versions of the same Web application built with different libraries, frameworks, and techniques. This approach will allow the reader compare apples to apples and make an educated decision which approach fits his or her needs the best.
+Instead of giving a number of unrelated code samples, we decided to develop multiple versions of the same Web application built with different libraries, frameworks, and techniques. This approach will allow the reader compare apples to apples and make an educated decision on which approach fits his or her needs the best.
 
 First we'll show how to build this application in pure HTML/JavaScript, then we'll re-write it using jQuery library, then with Ext JS framework. The users will be able to see where different charity events are being run (Google maps integration). The page will integrate the video player and display the chart  with stats on donors by geographical location. 
 One of the versions of this app shows how to modularize this application - this is a must for any enterprise system. Another version shows how to use WebSockets technology to illustrate the server-side data push while adding an auction to this Web application. The final chapters of the book show different ways of building different version of the same Save The Child application to run on mobile devices (Responsive Design, jQuery Mobile, Sencha Touch, and PhoneGap). We believe that this application will help you in comparing all these approaches and selecting those that fit your objectives.
