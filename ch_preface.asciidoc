@@ -140,7 +140,7 @@ Chapters 1 and 2 are must read - if you can't read JavaScript code or are not fa
 
 *Chapter 1* describes the process of mocking up the application Save The Child, which will support donations to the children, embed a video player, integrate with Google maps, and eventually will feature an online auction. We'll show you how to gradually build all the functionality of this Web application while explaining each step of the way. By the end of this chapter we'll have the Web design and the first prototype of the Save The Child application written using just HTML, JavaScript and CSS.
 
-*Chapter 2* is about bringing external data to Web browsers by making asynchronous calls to server. The code from previous chapters uses only hard-coded data. Now it's time to learn how to make asynchronous server calls using AJAX techniques and consume the data in JSON format. The Save The Child application will start requesting the data from the external sources and sending them the JSON-formatted data. 
+*Chapter 2* is about bringing external data to Web browsers by making asynchronous calls to the server. The code from previous chapters uses only hard-coded data. Now it's time to learn how to make asynchronous server calls using AJAX techniques and consume the data in JSON format. The Save The Child application will start requesting the data from the external sources and sending them the JSON-formatted data. 
 
 *Chapter 3* shows how to use a popular jQuery library to lower the amount of manual coding in the Save The Child application. First, we'll introduce the jQuery Core library, and then re-build our Save The Child application with it. In the real world, developers often increase their productivity by using JavaScript libraries and frameworks. 
 
